@@ -7,7 +7,7 @@ This is a reflection of my journey through UW's Trilogy Bootcamp
 
 # My Journey
 
-I began the Trilogy program with zero experience in coding. I barely knew HTML was an acronym. I would have figured CSS referred to a naval vessel. Over the past eight months, I have grown into a full-stack JavaScript developer. I have 32 functioning repositories under my belt. I have single handedly made apps varying from a simple quiz game to a broad, expansive library search tool. I have collaborated with varied talents to create engaging reactive web apps. In short, I feel I came to this program barely literate. I’m now speaking a strange form of poetry. The coding nuance is vast, and I look forward to learning from each and every variation in the future. 
+I began the Trilogy program with zero experience in coding. I barely knew HTML was an acronym. I would have figured CSS referred to a naval vessel. Over the past eight months, I have grown into a full-stack JavaScript developer. I have 32 functioning repositories under my belt. I have single-handedly made apps ranging from a simple quiz game to a broad, expansive library search tool. I have collaborated with varying talents to create engaging reactive web apps. In short, I feel I came to this program barely literate. I’m now speaking a strange form of poetry. The coding nuance is vast, and I look forward to learning from each and every variation in the future. 
 
 # Future Plans
 
